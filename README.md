@@ -1,2 +1,5 @@
-> "I’m using Linux. A library that emacs uses to communicate with Intel hardware."
->  – Erwin, #emacs, Freenode.
+# 👋 Hi, I am Sam!
+
+- I am a software engineer currently based in Brooklyn, NY 🗽
+- I am a full-stack developer 💻
+- I ❤️ Emacs
