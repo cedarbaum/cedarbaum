@@ -1,7 +1,7 @@
 # 👋 Hi, I am Sam!
 
 - I am a full-stack software engineer currently based in New York, NY 🗽
-- I enjoy running 🏃
+- I enjoy running
 - I ❤️ Emacs
 
 Some things I am working on, ordered by usefulness:
